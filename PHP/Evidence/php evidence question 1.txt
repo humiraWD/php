@@ -1,0 +1,28 @@
+PHP Evidence Question:
+
+Q1. Create an associative array of 5 elements where index will be country name and value will be 
+       corresponding capital name. Sort the array by capital name and print.
+
+Q2. Create a class named Book where properties are isbn, book name, author name, price and a method named Selling_price 
+       which will take discount as parameter and calculate the selling price based on discount. Must use constructor to 
+       initialize the data and print the selling price.
+
+Q3. Calculate the area of circle using function.
+
+
+Q4. Using regular expression to validate the phone number of the following format:
+       (+xxx)-xxx-xx-xxxxx  
+
+
+Q5. Write code to create a new text file and write the following data into the file,
+	Mr. Arif		arif@yahoo.com	
+   	Md. Bashar	bashar@yahoo.com	
+	Mahmuda	mah@hotmail.com
+
+       Show the file content into the browser  with filesize.
+
+
+
+
+     
+  

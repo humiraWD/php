@@ -1,0 +1,10 @@
+elseif (  
+        ($file_type != "application/pdf") &&
+        ($file_type != "image/jpeg") &&
+        ($file_type != "image/jpg") &&
+        ($file_type != "image/gif") &&
+        ($file_type != "image/png")    
+    ){
+        $message = 'Invalid file type. Only PDF, JPG, GIF and PNG types are accepted.'; 
+        echo '<script type="text/javascript">alert("'.$message.'");</script>';         
+    }
